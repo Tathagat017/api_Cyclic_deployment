@@ -1,11 +1,12 @@
 {
   "users": [
     {
+      "id": "1",
       "email": "raj@gmail.com",
       "password": "123456",
       "username": "Raj",
       "role": "admin",
-      "phone": "000000000"
+      "mobile": "1234567890"
     }
   ],
   "jewellery": [
